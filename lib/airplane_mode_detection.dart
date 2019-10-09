@@ -10,4 +10,9 @@ class AirplaneModeDetection {
     final String version = await _channel.invokeMethod('getPlatformVersion');
     return version;
   }
+
+  static Future<String> detectAirplaneMode() async {
+    final String airplaneMode =  await _channel.invokeMethod('detectAirplaneMode');
+    return airplaneMode;
+  }
 }
