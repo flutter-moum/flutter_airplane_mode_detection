@@ -2,7 +2,7 @@
 
 ------
 
-A Flutter Plugin for Detect and Check Airplane Mode in Android and iOS
+A Flutter Plugin for Detecting the Airplane Mode in Android and iOS
 
 ### Usage 
 
@@ -17,8 +17,12 @@ import 'package:airplane_mode_detection/airplane_mode_detection.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 ```
 
-You can detect and check Airplane mode in iOS and Android
+In order to detect the airplane mode, use ```AirplaneModeDetection.detectAirplaneMode()``` as below.  
+You will get the return value 'ON' or 'OFF'.
 
+```dart
+String state = await AirplaneModeDetection.detectAirplaneMode();
+```
 ```dart
 
   static Future<String> detectAirplaneMode() async {
@@ -61,7 +65,7 @@ Find the example wiring in the [example app](https://github.com/flutter-moum/flu
 
 ### API details
 
-~~여기에 어떤걸 넣어야할까요...~~
+See the [airplane_mode_detection.dart](https://github.com/flutter-moum/flutter_airplane_mode_detection/blob/master/lib/airplane_mode_detection.dart) for more API details.
 
 ------
 
