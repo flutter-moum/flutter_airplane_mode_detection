@@ -48,10 +48,8 @@ public class SwiftAirplaneModeDetectionPlugin: NSObject, FlutterPlugin {
 ### ScreenShots
 
 > ### iOS
-
-![IMG_8678](https://user-images.githubusercontent.com/46750574/66458000-9f560500-eaac-11e9-9d1c-8f10014493e6.PNG)
-
-![IMG_8680](https://user-images.githubusercontent.com/46750574/66458001-9f560500-eaac-11e9-8891-61268a51bdc5.PNG)
+<kbd> ![IMG_8678](https://user-images.githubusercontent.com/46750574/66458000-9f560500-eaac-11e9-9d1c-8f10014493e6.PNG)</kbd>
+<kbd>![IMG_8680](https://user-images.githubusercontent.com/46750574/66458001-9f560500-eaac-11e9-8891-61268a51bdc5.PNG)</kbd>
 
 ------
 
