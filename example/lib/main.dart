@@ -3,6 +3,7 @@ import 'dart:async';
 
 import 'package:flutter/services.dart';
 import 'package:airplane_mode_detection/airplane_mode_detection.dart';
+import 'package:fluttertoast/fluttertoast.dart';
 
 void main() => runApp(MyApp());
 
@@ -18,6 +19,13 @@ class _MyAppState extends State<MyApp> {
   void initState() {
     super.initState();
     initPlatformState();
+  }
+
+  void showLongToast(String state) {
+    Fluttertoast.showToast(
+      msg: state,
+      toastLength: Toast.LENGTH_LONG,
+    );
   }
 
   // Platform messages are asynchronous, so we initialize in an async method.
@@ -51,8 +59,8 @@ class _MyAppState extends State<MyApp> {
                       RaisedButton(
                         child: Text('AirplaneCheck'),
                         onPressed: () async {
-                          String airplaneMode = await AirplaneModeDetection.detectAirplaneMode();
-                          if(airplaneMode == "ON"){
+                          bool airplaneMode = await AirplaneModeDetection.detectAirplaneMode();
+                          if(airplaneMode == true){
                             //
                             print("airplane mode on");
                           }else{
@@ -62,6 +70,15 @@ class _MyAppState extends State<MyApp> {
                         },
                         color: Colors.green,
                       ),
+                      Padding(
+                        padding: const EdgeInsets.all(10.0),
+                        child: new RaisedButton(
+                            child: new Text('State Airplane'),
+                            onPressed: () async {
+                              String state = await AirplaneModeDetection.stateAirplaneMode();
+                              showLongToast(state);
+                            }),
+                      )
                     ]
                 )
             )
