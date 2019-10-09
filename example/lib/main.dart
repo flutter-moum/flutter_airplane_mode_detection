@@ -62,7 +62,7 @@ class _MyAppState extends State<MyApp> {
                         child: new RaisedButton(
                             child: new Text('Check AirplaneMode'),
                             onPressed: () async {
-                              String state = await AirplaneModeDetection.stateAirplaneMode();
+                              String state = await AirplaneModeDetection.detectAirplaneMode();
                               showLongToast(state);
                               print(state);
                             }),

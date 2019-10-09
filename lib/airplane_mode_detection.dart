@@ -11,8 +11,8 @@ class AirplaneModeDetection {
     return version;
   }
 
-  static Future<String> stateAirplaneMode() async {
-    final String airplanemode = await _channel.invokeMethod('stateAirplaneMode');
+  static Future<String> detectAirplaneMode() async {
+    final String airplanemode = await _channel.invokeMethod('detectAirplaneMode');
     return airplanemode;
   }
 }

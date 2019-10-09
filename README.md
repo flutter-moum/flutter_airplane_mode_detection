@@ -20,12 +20,9 @@ import 'package:fluttertoast/fluttertoast.dart';
 You can detect and check Airplane mode in iOS and Android
 
 ```dart
- static Future<bool> detectAirplaneMode() async {
-    final bool airplaneMode =  await _channel.invokeMethod('detectAirplaneMode');
-    return airplaneMode;
-  }
-  static Future<String> stateAirplaneMode() async {
-    final String airplanemode = await _channel.invokeMethod('stateAirplaneMode');
+
+  static Future<String> detectAirplaneMode() async {
+    final String airplanemode = await _channel.invokeMethod('detectAirplaneMode');
     return airplanemode;
   }
 ```
@@ -52,9 +49,9 @@ public class SwiftAirplaneModeDetectionPlugin: NSObject, FlutterPlugin {
 
 > ### iOS
 
-![IMG_8675](https://user-images.githubusercontent.com/46750574/66456021-68312500-eaa7-11e9-905a-5f9d2aa3733c.PNG)
+![IMG_8678](https://user-images.githubusercontent.com/46750574/66458000-9f560500-eaac-11e9-9d1c-8f10014493e6.PNG)
 
-![IMG_8676](https://user-images.githubusercontent.com/46750574/66456022-68312500-eaa7-11e9-85e5-378f2ee3586f.PNG)
+![IMG_8680](https://user-images.githubusercontent.com/46750574/66458001-9f560500-eaac-11e9-8891-61268a51bdc5.PNG)
 
 ------
 
@@ -79,3 +76,6 @@ Please file [issues](https://github.com/flutter-moum/flutter_airplane_mode_detec
 ------
 
 ### License
+
+[MIT](https://github.com/flutter-moum/flutter_airplane_mode_detection_/issues) License
+
