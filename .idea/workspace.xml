@@ -5,10 +5,139 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53a09522-4d1a-44fe-8794-f932d2af4d5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Classes/SwiftAirplaneModeDetectionPlugin.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/SwiftAirplaneModeDetectionPlugin.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/airplane_mode_detection.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/airplane_mode_detection.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/example/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/example/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/flutter/moum/airplane_mode_detection/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/annotations_typedef_file/debug/extractDebugAnnotations/typedefs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/incremental/packageDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/incremental/packageDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/intermediate-jars/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/intermediate-jars/debug/res.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/javac/debug/compileDebugJavaWithJavac/classes/flutter/moum/airplane_mode_detection/AirplaneModeDetectionPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/javac/debug/compileDebugJavaWithJavac/classes/flutter/moum/airplane_mode_detection/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/javac/debug/compileDebugJavaWithJavac/classes/flutter/moum/airplane_mode_detection/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/merged_manifests/debug/processDebugManifest/merged/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/packaged-classes/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/symbols/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/transforms/mergeJavaRes/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/outputs/aar/airplane_mode_detection-debug.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app.dill" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/example/build/app.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app.dill.track.dill.incremental.dill" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/flutter/moum/airplane_mode_detection/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/flutter/moum/airplane_mode_detection_example/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/generated/source/buildConfig/debug/flutter/moum/airplane_mode_detection_example/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/apk_list/debug/mainApkListPersistenceDebug/apk-list.gson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/blame/res/debug/single/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/compatible_screen_manifest/debug/createDebugCompatibleScreenManifests/out/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/android-x86/flutter_assets/AssetManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/android-x86/flutter_assets/FontManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/android-x86/flutter_assets/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/android-x86/flutter_assets/fonts/MaterialIcons-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/android-x86/flutter_assets/isolate_snapshot_data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/android-x86/flutter_assets/kernel_blob.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/android-x86/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/android-x86/flutter_assets/vm_snapshot_data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/android-x86/snapshot_blob.bin.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/libs.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/S3XcPVE8bgPl_PU0aGiW+VXlDgo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/ejuvafEpEusaR3aioBLfl8qhhPw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/oKyJCExes2RVnMXqdPO_RuHvZDw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJniLibs/zip-cache/S3XcPVE8bgPl_PU0aGiW+VXlDgo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJniLibs/zip-cache/ejuvafEpEusaR3aioBLfl8qhhPw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJniLibs/zip-cache/oKyJCExes2RVnMXqdPO_RuHvZDw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/M9_ioZoT6nXuYxPJfu5N_Clnq2g=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/instant_run_merged_manifests/debug/processDebugManifest/instant-run/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/flutter/moum/airplane_mode_detection/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/flutter/moum/airplane_mode_detection_example/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/flutter/moum/airplane_mode_detection_example/MainActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/flutter/moum/airplane_mode_detection_example/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/flutter/moum/airplane_mode_detection_example/R$mipmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/flutter/moum/airplane_mode_detection_example/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/flutter/moum/airplane_mode_detection_example/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/flutter/plugins/GeneratedPluginRegistrant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/AssetManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/FontManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/fonts/MaterialIcons-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/isolate_snapshot_data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/kernel_blob.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/vm_snapshot_data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/merged_manifests/debug/processDebugManifest/merged/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/processed_res/debug/processDebugResources/out/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/split_list/debug/splitsDiscoveryTaskDebug/split-list.gson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/symbols/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/12/flutter/moum/airplane_mode_detection/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/12/flutter/moum/airplane_mode_detection_example/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/12/flutter/moum/airplane_mode_detection_example/MainActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/12/flutter/moum/airplane_mode_detection_example/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/12/flutter/moum/airplane_mode_detection_example/R$mipmap.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/12/flutter/moum/airplane_mode_detection_example/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/12/flutter/moum/airplane_mode_detection_example/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/12/io/flutter/plugins/GeneratedPluginRegistrant.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexMerger/debug/0/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexMerger/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/externalLibsDexMerger/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJavaRes/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJniLibs/debug/0/lib/armeabi-v7a/libflutter.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJniLibs/debug/0/lib/x86/libflutter.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJniLibs/debug/0/lib/x86_64/libflutter.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/outputs/apk/app.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/outputs/apk/app.apk.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/outputs/apk/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/tmp/packLibsflutterBuildDebug/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build\ios/Runner.build/Release-iphoneos/Runner.build/dgph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Generated.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/Generated.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
@@ -34,7 +163,29 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/airplane_mode_detection.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="64" column="91" selection-start-line="64" selection-start-column="73" selection-end-line="64" selection-end-column="91" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,41 +212,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="flutter_airplane_mode_detection_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_airplane_mode_detection_" type="462c0819:PsiDirectoryNode" />
+              <item name="flutter_airplane_mode_detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_airplane_mode_detection" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="flutter_airplane_mode_detection_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_airplane_mode_detection_" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
+              <item name="flutter_airplane_mode_detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_airplane_mode_detection" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="flutter_airplane_mode_detection_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_airplane_mode_detection_" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flutter_airplane_mode_detection_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_airplane_mode_detection_" type="462c0819:PsiDirectoryNode" />
+              <item name="flutter_airplane_mode_detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_airplane_mode_detection" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flutter_airplane_mode_detection_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_airplane_mode_detection_" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,7 +283,7 @@
   <component name="ToolWindowManager">
     <frame x="840" y="23" width="840" height="975" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.27318296" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27318296" />
       <window_info id="Captures" order="1" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -151,7 +292,6 @@
       <window_info id="Resources Explorer" order="6" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3295583" />
       <window_info anchor="bottom" id="Dart Analysis" order="0" />
       <window_info anchor="bottom" id="Run" order="1" weight="0.37485844" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.3297362" />
@@ -163,6 +303,7 @@
       <window_info anchor="bottom" id="Flutter Performance" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3297362" />
       <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295583" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -179,9 +320,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.packages">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.packages" />
     <entry file="file://$PROJECT_DIR$/android/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -208,37 +347,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/airplane_mode_detection_test.dart">
+    <entry file="file://$PROJECT_DIR$/test/airplane_mode_detection_test.dart" />
+    <entry file="file://$PROJECT_DIR$/ios/Classes/SwiftAirplaneModeDetectionPlugin.swift" />
+    <entry file="file://$PROJECT_DIR$/lib/airplane_mode_detection.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ios/Classes/SwiftAirplaneModeDetectionPlugin.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="960">
           <caret line="64" column="91" selection-start-line="64" selection-start-column="73" selection-end-line="64" selection-end-column="91" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/airplane_mode_detection.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="16" selection-end-column="3" />
         </state>
       </provider>
     </entry>

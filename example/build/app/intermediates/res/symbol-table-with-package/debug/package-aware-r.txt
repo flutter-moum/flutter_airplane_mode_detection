@@ -1,4 +1,0 @@
-flutter.moum.airplane_mode_detection_example
-drawable launch_background
-mipmap ic_launcher
-style LaunchTheme
