@@ -13,10 +13,7 @@ public class SwiftAirplaneModeDetectionPlugin: NSObject, FlutterPlugin {
   public func handle(_ call: FlutterMethodCall, result: @escaping FlutterResult) {
      if (call.method == "getPlatformVersion"){
                   result("iOS" + UIDevice.current.systemVersion)
-              }else if (call.method == "detectAirplaneMode") {
-      self.detectAirplaneMode { (flag) in
-          result(flag)
-      }}
+              }
 
      else if (call.method == "stateAirplaneMode") {
       (self.stateAirplaneMode( completion: { (msg) in
@@ -30,18 +27,6 @@ public class SwiftAirplaneModeDetectionPlugin: NSObject, FlutterPlugin {
                   super.init()
               }
 
-      func detectAirplaneMode(completion: @escaping (Bool) -> Void) {
-
-                  let monitor = NWPathMonitor()
-
-                         monitor.pathUpdateHandler = { path in
-
-                          completion(path.availableInterfaces.count == 0)
-                         }
-          let queue = DispatchQueue(label: "Monitor", qos: .default, attributes: .concurrent, autoreleaseFrequency: .inherit, target: nil)
-                  monitor.start(queue: queue)
-
-              }
 
       func stateAirplaneMode(completion: @escaping (String) -> Void){
           let monitor = NWPathMonitor()

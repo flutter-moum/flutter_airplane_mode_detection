@@ -56,27 +56,15 @@ class _MyAppState extends State<MyApp> {
                 child: Column(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     children: [
-                      RaisedButton(
-                        child: Text('AirplaneCheck'),
-                        onPressed: () async {
-                          bool airplaneMode = await AirplaneModeDetection.detectAirplaneMode();
-                          if(airplaneMode == true){
-                            //
-                            print("airplane mode on");
-                          }else{
-                            //
-                            print("airplane mode off");
-                          }
-                        },
-                        color: Colors.green,
-                      ),
+
                       Padding(
                         padding: const EdgeInsets.all(10.0),
                         child: new RaisedButton(
-                            child: new Text('State Airplane'),
+                            child: new Text('Check AirplaneMode'),
                             onPressed: () async {
                               String state = await AirplaneModeDetection.stateAirplaneMode();
                               showLongToast(state);
+                              print(state);
                             }),
                       )
                     ]
