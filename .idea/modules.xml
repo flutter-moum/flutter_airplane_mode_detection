@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/airplane_mode_detection.iml" filepath="$PROJECT_DIR$/airplane_mode_detection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/airplane_mode_detection_android.iml" filepath="$PROJECT_DIR$/android/airplane_mode_detection_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/airplane_mode_detection_example_android.iml" filepath="$PROJECT_DIR$/example/android/airplane_mode_detection_example_android.iml" />
+    </modules>
+  </component>
+</project>
