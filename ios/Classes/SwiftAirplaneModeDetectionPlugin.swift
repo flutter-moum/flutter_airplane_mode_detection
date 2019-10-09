@@ -51,11 +51,13 @@ public class SwiftAirplaneModeDetectionPlugin: NSObject, FlutterPlugin {
           monitor.pathUpdateHandler = { path in
               if path.availableInterfaces.count == 0{
                   msg = "Flight Mode"
+                  print("Flight Mode")
                   monitor.cancel()
 
               }
               else {
                   msg = "Not Flight Mode"
+                  print("Not Flight Mode")
                   monitor.cancel()
 
               }
