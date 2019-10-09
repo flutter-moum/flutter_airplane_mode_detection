@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/example/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/example/.flutter-plugins" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/example/.packages" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/flutter/moum/airplane_mode_detection/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/generated/source/buildConfig/debug/flutter/moum/airplane_mode_detection/BuildConfig.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/example/build/airplane_mode_detection/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json" beforeDir="false" />
