@@ -2,6 +2,8 @@
 
 ------
 
+[![Pub](https://img.shields.io/pub/v/airplane_mode_detection.svg)](https://pub.dev/packages/airplane_mode_detection)
+
 A Flutter Plugin for Detecting the Airplane Mode in Android and iOS
 
 ### Usage 
