@@ -81,5 +81,5 @@ Please file [issues](https://github.com/flutter-moum/flutter_airplane_mode_detec
 
 ### License
 
-[MIT](https://github.com/flutter-moum/flutter_airplane_mode_detection_/issues) License
+[MIT](https://mit-license.org) License
 
