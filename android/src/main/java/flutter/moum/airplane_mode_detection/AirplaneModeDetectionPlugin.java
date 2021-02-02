@@ -32,6 +32,11 @@ public class AirplaneModeDetectionPlugin implements MethodCallHandler {
                 result.success("ON");
             else
                 result.success("OFF");
+        }else if (call.method.equals("isOnAirplaneMode")) {
+            if(isAirModeOn())
+                result.success(true);
+            else
+                result.success(false);
         } else {
             result.notImplemented();
         }
