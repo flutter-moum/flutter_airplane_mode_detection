@@ -15,4 +15,9 @@ class AirplaneModeDetection {
     final String airplanemode = await _channel.invokeMethod('detectAirplaneMode');
     return airplanemode;
   }
+
+  static Future<bool> isOnAirplaneMode() async {
+    final bool isOnAirplaneMode = await _channel.invokeMethod('isOnAirplaneMode');
+    return isOnAirplaneMode;
+  }
 }
