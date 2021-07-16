@@ -1,16 +1,15 @@
 name: airplane_mode_detection
 description: Flutter plugin that allows you to detect and check mobile airplane mode callback functions on iOS and Android.
-version: 1.0.0
-author: chokyungjin<chokj1472@gmail.com>, moonyoungCHAE<Xpf_fl@naver.com>, FlutterMoum Group<fluttermoum@gmail.com>
+version: 2.0.0-nullsafety
 homepage: https://github.com/flutter-moum/flutter_airplane_mode_detection_
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
+  flutter: '>=2.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
-  fluttertoast: ^7.0.4
 
 dev_dependencies:
   flutter_test:
@@ -26,8 +25,12 @@ flutter:
   # be modified. They are used by the tooling to maintain consistency when
   # adding or updating assets for this project.
   plugin:
-    androidPackage: flutter.moum.airplane_mode_detection
-    pluginClass: AirplaneModeDetectionPlugin
+    platforms:
+      android:
+        package: flutter.moum.airplane_mode_detection
+        pluginClass: AirplaneModeDetectionPlugin
+      ios:
+        pluginClass: AirplaneModeDetectionPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
