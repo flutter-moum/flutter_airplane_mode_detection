@@ -6,3 +6,8 @@
 
 * Plugin update
 
+## 2.0.0-nullsafety
+
+* Add Null Safety
+* Fix Deprecated APIs
+
