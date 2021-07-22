@@ -13,55 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53a09522-4d1a-44fe-8794-f932d2af4d5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/example/ios/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/flutter_airplane_mode_detection.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/flutter_airplane_mode_detection_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.flutter-plugins" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.flutter-plugins-dependencies" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/example/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.idea/libraries/Flutter_for_Android.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.idea/runConfigurations/main_dart.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.packages" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/airplane_mode_detection_example.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/.gradle/4.10.2/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/.gradle/4.10.2/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/.gradle/4.10.2/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/.gradle/4.10.2/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/.gradle/4.10.2/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/.gradle/4.10.2/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/.gradle/4.10.2/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/.gradle/4.10.2/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/airplane_mode_detection_example_android.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/build/app.dill.track.dill" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/build/frontend_server.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/build/last_build_run.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Generated.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/GeneratedPluginRegistrant.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/GeneratedPluginRegistrant.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ios/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,11 +34,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="840" />
-    <option name="height" value="975" />
-  </component>
   <component name="ProjectId" id="1vP2RBgXiI6uItRXdwH5NXKXdqm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -94,6 +42,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -140,18 +89,18 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="0" y="25" key="FileDocumentManager.FileCacheConflict/0.25.1920.1055/1920.25.1280.999@0.25.1920.1055" timestamp="1626449658343" />
-    <state x="538" y="163" key="RollbackChangesDialog" timestamp="1626453191587">
+    <state x="538" y="163" key="RollbackChangesDialog" timestamp="1626453226429">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="538" y="163" key="RollbackChangesDialog/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1626453191587" />
+    <state x="538" y="163" key="RollbackChangesDialog/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1626453226429" />
     <state x="538" y="163" key="RollbackChangesDialog/0.0.1920.1080/1920.25.1280.999@0.0.1920.1080" timestamp="1626451680825" />
     <state x="660" y="279" width="600" height="522" key="find.popup" timestamp="1626451088247">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="660" y="279" width="600" height="522" key="find.popup/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1626451088247" />
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1626452642488">
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1626601656863">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1626452642488" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1626601656863" />
   </component>
 </project>
